@@ -1,2 +1,3 @@
 # Demo_Git
-Suivi du cours Git
+
+Une demo de git qui se passe bien
